@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Damián</h1>
 
-<p>I am a software developer from Argentina.</p>
+<p>I'm a software developer from Argentina.</p>
 <p>I currently live in Barcelona, Catalonia, Spain.</p>
 <p>I love coding in Python and software architecture.</p>
 
