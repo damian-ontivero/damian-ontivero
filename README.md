@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Damián</h1>
-<li>I'm a software developer from Argentina.</li>
-<li>I currently live in Barcelona, Catalonia, Spain.</li>
-<li>I love coding in Python and software architecture.</li>
 
+<p>I am a software developer from Argentina.</p>
+<p>I currently live in Barcelona, Catalonia, Spain.</p>
+<p>I love coding in Python and software architecture.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/matias-damian-ontivero-garcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matias-damian-ontivero-garcia" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/matias-damian-ontivero-garcia" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matias-damian-ontivero-garcia" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
