@@ -2,7 +2,7 @@
 
 <p>I'm a software developer from Argentina.</p>
 <p>I currently live in Barcelona, Catalonia, Spain.</p>
-<p>I love coding in Python and software architecture.</p>
+<p>I love coding and software architecture.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
